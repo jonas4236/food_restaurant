@@ -6,6 +6,8 @@ First, run the development server:
 
 ```bash
 # 1
+npm install
+# 1.2
 npm run dev
 # 2
 cd src/docker and then "docker compose up"
